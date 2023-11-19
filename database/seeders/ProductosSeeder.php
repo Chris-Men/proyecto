@@ -100,7 +100,7 @@ class ProductosSeeder extends Seeder
                 'descripcion' => 'Descripción del Producto 11',
                 'stock' => 10,
                 'precio' => 5.99,
-                'imagen' => 'images/Bebida (11).jpg',
+                'imagen' => 'imagenes/helado de galleta.jpg',
                 'id_categoria' => 1,
             ],
             [
@@ -108,14 +108,14 @@ class ProductosSeeder extends Seeder
                 'descripcion' => 'Descripción del Postre 1',
                 'stock' => 5,
                 'precio' => 3.99,
-                'imagen' => 'images/Postre (1).jpg',
+                'imagen' => 'imagenes/pastel de mora.jpg',
                 'id_categoria' => 2,
             ],[
                 'nombre' => 'Postre 2',
                 'descripcion' => 'Descripción del Postre 2',
                 'stock' => 5,
                 'precio' => 3.99,
-                'imagen' => 'images/Postre (2).jpg',
+                'imagen' => 'imagenes/crema pastelera.jpg',
                 'id_categoria' => 2,
             ],
             [
@@ -123,7 +123,7 @@ class ProductosSeeder extends Seeder
                 'descripcion' => 'Descripción del Postre 3',
                 'stock' => 5,
                 'precio' => 3.99,
-                'imagen' => 'images/Postre (3).jpg',
+                'imagen' => 'imagenes/flan de caramelo.jpg',
                 'id_categoria' => 2,
             ],
             [
@@ -131,7 +131,7 @@ class ProductosSeeder extends Seeder
                 'descripcion' => 'Descripción del Postre 4',
                 'stock' => 5,
                 'precio' => 3.99,
-                'imagen' => 'images/Postre (4).jpg',
+                'imagen' => 'imagenes/stuffed.jpg',
                 'id_categoria' => 2,
             ],
             [
@@ -139,7 +139,7 @@ class ProductosSeeder extends Seeder
                 'descripcion' => 'Descripción del Postre 5',
                 'stock' => 5,
                 'precio' => 3.99,
-                'imagen' => 'images/Postre (5).jpg',
+                'imagen' => 'imagenes/suspiros de limeña.jpg',
                 'id_categoria' => 2,
             ],
             [
@@ -147,7 +147,7 @@ class ProductosSeeder extends Seeder
                 'descripcion' => 'Descripción del Postre 6',
                 'stock' => 5,
                 'precio' => 3.99,
-                'imagen' => 'images/Postre (6).jpg',
+                'imagen' => 'imagenes/bloggings.jpg',
                 'id_categoria' => 2,
             ],
             [
@@ -155,33 +155,10 @@ class ProductosSeeder extends Seeder
                 'descripcion' => 'Descripción del Postre 7',
                 'stock' => 5,
                 'precio' => 3.99,
-                'imagen' => 'images/Postre (7).jpg',
+                'imagen' => 'imagenes/pie de mantequilla.jpg',
                 'id_categoria' => 2,
             ],
-            [
-                'nombre' => 'Postre 8',
-                'descripcion' => 'Descripción del Postre 8',
-                'stock' => 5,
-                'precio' => 3.99,
-                'imagen' => 'images/Postre (8).jpg',
-                'id_categoria' => 2,
-            ],
-            [
-                'nombre' => 'Postre 9',
-                'descripcion' => 'Descripción del Postre 9',
-                'stock' => 5,
-                'precio' => 3.99,
-                'imagen' => 'images/Postre (9).jpg',
-                'id_categoria' => 2,
-            ],
-            [
-                'nombre' => 'Postre 10',
-                'descripcion' => 'Descripción del Postre 10',
-                'stock' => 5,
-                'precio' => 3.99,
-                'imagen' => 'images/Postre (10).jpg',
-                'id_categoria' => 2,
-            ],
+            
             // ... Agrega más productos según sea necesario
         ];
 

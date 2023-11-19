@@ -95,5 +95,3 @@
 </body>
 
 </html>
-
-<div class="item" style="background-image: url({{ asset('') }});">
